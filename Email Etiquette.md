@@ -46,11 +46,7 @@ If you read your email at least twice before you send it, you will
 naturally send better emails. Those who just fire off emails without reviewing them first usually make mistakes and look bad in
 the process.
 
-## 10. Respond in a timely fashion.
-Unless you work in some type of emergency capacity, it's not necessary to be available the
-instant an e-mail arrives. Depending on the nature of the e-mail and the sender, responding within 24 to 48 hours is acceptable.
-
-## 11.Choose an Appropriate Ending
+## 10.Choose an Appropriate Ending
 Sometimes it's hard to know how to end an email message. Here are a few suggestions, based on the situation:
 
 **Thanks or Many Thanks**: If you're asking a favor.
@@ -65,7 +61,7 @@ Sometimes it's hard to know how to end an email message. Here are a few suggesti
 
 **Best Regards or Kind Regards**: If you want to maintain a formal business tone.
 
-## 12.Let the Sender Know Their Message Has Been Received
+## 11.Let the Sender Know Their Message Has Been Received
 Email messages can get lost in the mail or in the spam filter. As a courtesy, especially with important messages 
 (such as those with attachments or having to do with deadlines), write a short note to let the sender know their
 message has been received. For example, if your boss sends you a new project to work on, reply with, "Got it, I'll
